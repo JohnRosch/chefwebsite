@@ -1,3 +1,3 @@
 ## chefwebsite
 
-[Website link](https://chefwebsite.netlify.app/)
+[Website link](https://chefshy.johntobias.tech/)
